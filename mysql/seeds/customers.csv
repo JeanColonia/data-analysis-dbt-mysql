@@ -1,0 +1,15 @@
+customer_id,first_name,last_name,city,state,country
+1001,Alice,Smith,New York,NY,USA
+1002,Bob,Johnson,Los Angeles,CA,USA
+1003,Charlie,Williams,London,,UK
+1004,David,Brown,Toronto,ON,Canada
+1005,Eve,Davis,Paris,,France
+1006,Frank,Miller,Chicago,IL,USA
+1007,Grace,Wilson,Sydney,NSW,Australia
+1008,Henry,Taylor,Berlin,,Germany
+1009,Isabella,Martinez,Madrid,,Spain
+1009,Isabella,Martinez,Madrid,,Spain
+1010,Jack,Anderson,Vancouver,BC,Canada
+1011,Kelly,Thomas,Dublin,,Ireland
+1012,Liam,White,Amsterdam,,Netherlands
+1015,Maria,Garcia,Miami,FL,USA
