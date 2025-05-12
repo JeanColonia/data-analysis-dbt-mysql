@@ -30,7 +30,7 @@ dbt-mysql-demo/
 ├── bd-script.sql               # Script SQL auxiliar para desarrollo
 └── README.md                   # Documentación del proyecto (este archivo)
 
-
+``` 
 
 ### Explicación de cada carpeta
 
