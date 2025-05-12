@@ -1,0 +1,13 @@
+product_id,product_name,category,price,description,color,stock_quantity,last_updated
+101,T-Shirt,Clothing,12.99,Cotton crew neck t-shirt,White,50,2024-01-15
+102,Jeans,Clothing,19.99,Classic fit denim,,25,2024-01-14
+103,Book,Books,15.00,,,10,2024-01-10
+104,Laptop,Electronics,1500.00,15-inch gaming laptop,Black,5,2024-01-14
+105,Pen,Stationery,10.50,,Blue,,2024-01-12
+106,Notebook,Stationery,15.00,100 pages spiral notebook,,,
+107,Smartphone,Electronics,899.99,Latest model smartphone,Silver,15,2024-01-15
+108,Headphones,Electronics,199.99,Wireless noise-canceling,Black,30,2024-01-14
+109,Coffee Maker,Appliances,79.99,12-cup programmable,Silver,20,2024-01-13
+110,Running Shoes,Footwear,89.99,Lightweight running shoes,Grey,40,2024-01-15
+111,Backpack,Accessories,45.99,Water-resistant backpack,Navy,35,2024-01-14
+112,Watch,Accessories,299.99,Smart fitness watch,Black,25,2024-01-15

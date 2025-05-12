@@ -1,0 +1,1 @@
+SELECT DATE(s.sale_date) AS sale_day, COUNT(s.sale_id) AS total_sales, SUM(s.quantity) AS total_items_sold, ROUND(SUM(s.total_amount), 2) AS total_revenue FROM {{ref('stg_sales')}} as s GROUP BY sale_day ORDER BY sale_day DESC
